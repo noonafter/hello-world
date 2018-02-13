@@ -2,5 +2,5 @@
 
 Hi Everyone!
 
-I'm noonafter, i'm a machine learning amateur.
+I'm noonafter, I'm a machine learning amateur.
 I like programming though I have so many chores to do in my life.
